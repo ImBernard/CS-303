@@ -98,3 +98,35 @@ Android device is not considered safe as compared to other applications. It is e
 
 [source: http://thetechhacker.com/2015/01/08/advantages-disadvantages-apple-ios/]
 
+#Main Advantage and Disadvantage of windows phone
+
+##Advantage of windows phone
+
+* Windows Phone 8 Devices Supports Micro SD Card by which you can directly connect your memory card to system and transfer files to it.
+* Windows Phone 8 have better Video Codec.
+* Windows Phone 8 now support Multi Core Processors.
+* Windows Phone 8 New and Innovative Interface with Small Tiles.
+* Windows Phone 8 devices supports HD Display.
+* More Apps coming to Windows Phone 8.
+* Microsoft Office Support for Windows Phone is bigger Advantage.
+* Better Gaming experience with XBox Games.
+* Bing Search for Windows Phone.
+* Latest Internet Explorer for better Browsing experience.
+* Inbuilt Bar Code Scanner.
+* Windows Phone Devices Never stuck even with heavy files and games.
+
+##Disadvantage of windows phone
+
+* Only some devices have 1GB and 2GB RAM, which is bad for growing of Windows Phone Market.
+* Windows Phone Store is still fails to compete with Android and iOS stores.
+* The most of best games on Windows Phone store requires up to 1GB of RAM which is not available in all phones. Only Higher end devices have .
+* Windows Phone devices support limited Video Code like .mp4, .3gp, and .avi, but can’t play formats like .mkv and others. Other formats require some apps to play these formats and they are also paid apps, which include Moliplayer pro all in one video player.
+* It has only one interface with live tiles which may bore some users.
+* Windows Phone devices don’t have pattern lock. 
+* Windows Phone devices don’t support video sharing over Bluetooth and NFC.
+* One of Major problem is there is no file manager also do not have apps.
+* There is no single default video player in windows phone.
+* No Flash Player support in browsers.
+* There is no Antivirus app in Windows Phone Store for Security purpose.
+* Also Windows Phone devices are little expensive as compared to Android devices which have lots of features.
+
