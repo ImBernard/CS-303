@@ -1,3 +1,3 @@
-H1 Advantage and Disadvantage of Android Operating system
+#H1 Advantage and Disadvantage of Android Operating system
 
 Google’s Android operating system was released on 5 November 2007. But, still even today it seems to be a new software due to regular update and modification in the operating system. Android is Linux based open source operating system. As everything has their own advantages and disadvantages like two sides of the coin. Similarly. Android too has their own advantages and disadvantages.
